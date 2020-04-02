@@ -1,0 +1,21 @@
+{
+  "name": "RecruiterTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Recruiter test backend",
+  "author": "Bofin",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javierrebollo/BofinAndroidRecruiterTest.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser":"1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
